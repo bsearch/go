@@ -42,6 +42,5 @@ func main() {
 	for i:=0; i< 15 ; i++ {
 		sum += i
 	}
-	fmt.Println(sum)
-	
+	fmt.Println(sum)	
 }
