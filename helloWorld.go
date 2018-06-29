@@ -43,4 +43,5 @@ func main() {
 		sum += i
 	}
 	fmt.Println(sum)	
+	fmt.Println("test")
 }
